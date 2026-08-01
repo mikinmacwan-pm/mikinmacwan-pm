@@ -20,14 +20,12 @@ I turn ambiguous AI opportunities into executable product systems. Technology su
 
 ## Selected case studies
 
-| Case study | What it demonstrates |
-| --- | --- |
-| **[Knowledge Agent](https://github.com/mikinmacwan-pm/knowledge-agent)** | HITL retrieval for high-stakes decisions—problem framing, trust design, evaluation, and product architecture |
-| **[MCP Evaluation Framework](https://github.com/mikinmacwan-pm/mcp-eval-framework)** | Risk-tiered eval methodology before Beta and GA—how quality gates production AI |
-| **[How I Build PRDs](https://github.com/mikinmacwan-pm/how-i-build-prds)** | Product operating system: hypothesis testing and PRD discipline before engineering commitment |
-| **[ContractIQ](https://github.com/mikinmacwan-pm/contractiq)** | Stage-gated AI SDLC for responsible contract-review workflows |
-| **[Conversational SuperAgent](https://github.com/mikinmacwan-pm/conversational-superagent-portfolio)** | Agentic product patterns: supervision routing, specialist agents, clarify-before-answer, action-oriented UX |
-| **[OsteoAdvisor](https://github.com/mikinmacwan-pm/OsteoAdvisor)** | Trust and comprehension in a healthcare education context |
+- **[Knowledge Agent](https://github.com/mikinmacwan-pm/knowledge-agent)** — HITL retrieval for high-stakes decisions: problem framing, trust design, evaluation, and product architecture
+- **[MCP Evaluation Framework](https://github.com/mikinmacwan-pm/mcp-eval-framework)** — Risk-tiered eval methodology before Beta and GA
+- **[How I Build PRDs](https://github.com/mikinmacwan-pm/how-i-build-prds)** — Product operating system: hypothesis testing before engineering commitment
+- **[ContractIQ](https://github.com/mikinmacwan-pm/contractiq)** — Stage-gated AI SDLC for responsible contract-review workflows
+- **[Conversational SuperAgent](https://github.com/mikinmacwan-pm/conversational-superagent-portfolio)** — Agentic patterns: supervision routing, specialist agents, clarify-before-answer
+- **[OsteoAdvisor](https://github.com/mikinmacwan-pm/OsteoAdvisor)** — Trust and comprehension in a healthcare education context
 
 ---
 
